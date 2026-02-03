@@ -24,9 +24,6 @@ This extension provides the learner the opportunity to save the current Adapt co
 <div float align=right><a href="#top">Back to Top</a></div>
 
 ## Limitations
- 
-<p><strong>DOES NOT WORK WITH FRAMEWORK VERSION 5</strong>. Please go to the Framework 5 version of this component on my other github site...</p>
-[github.com/zarek3333/adapt-page2TextFile](https://github.com/zarek3333/adapt-page2TextFile)
 
 *   Please note that this extension only prints the **current page** the learner is on. If you wish to provide the learner with all the content you should look into a solution that is not dynamically created as this is.
 
